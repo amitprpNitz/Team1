@@ -1,1 +1,4 @@
-Trying Git first time whats up
+def PrintFunnyStory():
+    print("I dont do no funny business. ever.")
+
+PrintFunnyStory()
