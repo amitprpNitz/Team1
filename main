@@ -1,4 +1,7 @@
-def PrintFunnyStory():
-    print("I dont do no funny business. ever.")
-
-PrintFunnyStory()
+def print_funny_story():
+    print("so when i was in like 5th or 6th grade? can't remember, but")
+    print("i really liked this girl, we were in a pottery class together and she was really nice to me(which is basically all the requirments for a dumb 10 yo me)")
+    print("and so i wanted to ask her to be friends with me, but i was always too shy to say it to her")
+    print("until one day i was with yinon at the merkaz(he probably doesn't remember this story) and she was there and i mustered up all the courage i had")
+    print("and went up to her and asked for her number, and to my surprise, she gave it to me! but i was a 10 yo so i didn't really know what to do from there")
+    print("so i ended up never calling or texting her because i was too much of a coward, and now im too embarrased to look at her.")
