@@ -1,1 +1,4 @@
-pls work
+def funny_story():
+    the_funny = input('funny here: ')
+    print(the_funny)
+funny_story
